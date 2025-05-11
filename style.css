@@ -57,7 +57,10 @@ pd {
     color: darkgray; /* Color gris oscuro para el texto */
     text-align: right; /* Por defecto, el texto es alineado a la derecha */
 }
-
+.mi-clase {
+  font-weight: bold;      /* Negrita */
+  font-size: 25px;        /* Tamaño de letra mayor */
+}
 /* Estilo para el logo pequeño */
 .small-logo {
     width: 30px; /* Ajusta el ancho del logo pequeño */
