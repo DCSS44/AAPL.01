@@ -59,7 +59,7 @@ pd {
 }
 .mi-clase {
   font-weight: bold;      /* Negrita */
-  font-size: 25px;        /* Tamaño de letra mayor */
+  color: black;        /* Color negro */
 }
 /* Estilo para el logo pequeño */
 .small-logo {
